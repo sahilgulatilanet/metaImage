@@ -5,3 +5,5 @@ https://www.taniarascia.com/wordpress-part-three-custom-fields-and-metaboxes/
 https://getflywheel.com/layout/how-to-create-a-recent-post-carousel-using-owl-carousel/
 
 https://wordpress.stackexchange.com/questions/180347/how-to-integrate-owl-carousel-into-theme-without-using-a-plugin
+
+https://blog.templatetoaster.com/create-wordpress-theme-scratch/
